@@ -1,6 +1,6 @@
 # Zeta HTML Edit Control
 
-C# WinForms HTML editor from Zeta Software GmbH (Uwe Keim) wrapping the .NET WebBrowser control for rich HTML editing. `HtmlEditControl` (namespace `ZetaHtmlEditControl`) extends `ExtendedWebBrowser` with MSHTML `IDocHostUIHandler` hosting, clipboard paste (including paste-as-text), table/cell property forms, an HTML source editor, German (`.de.resx`) localisation, and a loopback preview `WebServer` over `HttpServer.dll`. `HtmlEditUserControl` adds a formatting toolbar around the same editor. This is Dave Robinson's working copy of the third-party Zeta control (assembly 1.1.0.3, copyright 2006–2009); there is no separable VaderConsulting wrapper in this tree.
+C# WinForms HTML editor from Zeta Software GmbH (Uwe Keim) wrapping the .NET WebBrowser control for rich HTML editing. `HtmlEditControl` (namespace `ZetaHtmlEditControl`) extends `ExtendedWebBrowser` with MSHTML `IDocHostUIHandler` hosting, clipboard paste (including paste-as-text), table/cell property forms, an HTML source editor, German (`.de.resx`) localisation, and a loopback preview `WebServer` over `HttpServer.dll`. `HtmlEditUserControl` adds a formatting toolbar around the same editor. This is Dave Robinson's working copy of the third-party Zeta control (assembly 1.1.0.3, copyright 2006-2009); there is no separable VaderConsulting wrapper in this tree.
 
 **Source last updated:** 2013-08-23 · **Language:** C# · **Target:** .NET Framework 3.5 · **Output:** class library (`ZetaHtmlEditControl.dll`) + WinForms test exe (`Test.exe`)
 
@@ -30,7 +30,7 @@ Working copy from Dave Robinson's OneDrive Historical Dev folder `Zeta HTML Edit
 - **Assembly version:** 1.1.0.3 (`Control`); Test host 1.1.0.2
 - **Designed for:** Zeta Helpdesk (comment on `HtmlEditControl`)
 - **Upstream:** [UweKeim/ZetaHtmlEditControl](https://github.com/UweKeim/ZetaHtmlEditControl); Code Project article *Zeta HTML Edit Control*
-- **Code comments:** dated notes by Uwe Keim (2006–2013); MIME map credit `hd@imos.net` (Hannes Dorbarth / Imos) kept as third-party attribution
+- **Code comments:** dated notes by Uwe Keim (2006-2013); MIME map credit `hd@imos.net` (Hannes Dorbarth / Imos) kept as third-party attribution
 
 VS 2012/2013 `.suo` files and `Control.csproj.user` were in the zip and are gitignored. `bin/` and `obj/` build outputs (including Surface Pro 3 copies of the signed DLL) are gitignored.
 
