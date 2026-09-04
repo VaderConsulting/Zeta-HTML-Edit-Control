@@ -18,6 +18,10 @@ C# WinForms HTML editor from Zeta Software GmbH (Uwe Keim) wrapping the .NET Web
 
 Open `ZetaHtmlEditControl.sln` in Visual Studio 2012 or later (solution format 11.00 / Visual Studio 2012; `.csproj` ToolsVersion 4.0, originally ProductVersion 9.0.21022 / VS 2008). Both projects target .NET Framework 3.5 and need Windows Forms plus COM `Microsoft.mshtml`. Build `Control` then `Test`.
 
+## Requirements
+
+- Visual Studio 2012, .NET Framework 3.5
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `Zeta HTML Edit Control`.
