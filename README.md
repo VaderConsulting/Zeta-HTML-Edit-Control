@@ -1,6 +1,6 @@
 # Zeta HTML Edit Control
 
-C# WinForms HTML editor from Zeta Software GmbH (Uwe Keim) wrapping the .NET WebBrowser control for rich HTML editing. `HtmlEditControl` (namespace `ZetaHtmlEditControl`) extends `ExtendedWebBrowser` with MSHTML `IDocHostUIHandler` hosting, clipboard paste (including paste-as-text), table/cell property forms, an HTML source editor, German (`.de.resx`) localisation, and a loopback preview `WebServer` over `HttpServer.dll`. `HtmlEditUserControl` adds a formatting toolbar around the same editor. This is Dave Robinson's working copy of the third-party Zeta control (assembly 1.1.0.3, copyright 2006-2009); there is no separable VaderConsulting wrapper in this tree.
+C# WinForms HTML editor from Zeta Software GmbH (Uwe Keim) wrapping the .NET WebBrowser control for rich HTML editing. `HtmlEditControl` (namespace `ZetaHtmlEditControl`) extends `ExtendedWebBrowser` with MSHTML `IDocHostUIHandler` hosting, clipboard paste (including paste-as-text), table/cell property forms, an HTML source editor, German (`.de.resx`) localisation, and a loopback preview `WebServer` over `HttpServer.dll`. `HtmlEditUserControl` adds a formatting toolbar around the same editor. The third-party Zeta control (assembly 1.1.0.3, copyright 2006-2009); there is no separable VaderConsulting wrapper in this tree.
 
 **Source last updated:** 2013-08-23 · **Language:** C# · **Target:** .NET Framework 3.5 · **Output:** class library (`ZetaHtmlEditControl.dll`) + WinForms test exe (`Test.exe`)
 
