@@ -24,7 +24,7 @@ Open `ZetaHtmlEditControl.sln` in Visual Studio 2012 or later (solution format 1
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `Zeta HTML Edit Control`.
+Working copy from my Historical Dev folder `Zeta HTML Edit Control`.
 
 - **Author:** Uwe Keim, Zeta Software GmbH (`http://www.zeta-sw.com`)
 - **Assembly title / product:** Zeta Html Edit Control
